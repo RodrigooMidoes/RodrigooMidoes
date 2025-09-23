@@ -3,7 +3,9 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=csharp" height="60" alt="csharp logo"  />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="60" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cs" height="60" alt="csharp logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=angular" height="60" alt="angular logo"  />
   <img width="12" />
